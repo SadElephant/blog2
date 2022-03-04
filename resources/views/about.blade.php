@@ -2,6 +2,7 @@
 @section('title-block')О нас@endsection
 @section('content')
     <h1>О нас</h1>
+    test_rebase
     ветка test_rebase
     commit1
     commit2
